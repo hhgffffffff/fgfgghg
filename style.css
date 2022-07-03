@@ -1,0 +1,17 @@
+.flex{
+    display: flex;
+    flex-grow: 1;
+    float: left;
+}
+.first{
+    width: 100px; height: 100px;
+    background-color: white;
+}
+.second{
+    width: 100px; height: 100px;
+    background-color: turquoise;
+}
+.third{
+    width: 100px; height: 100px;
+    background-color: khaki;
+}
